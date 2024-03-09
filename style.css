@@ -1,0 +1,47 @@
+body {
+    background-image: url("pic1.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat; 
+    background-size: cover;
+	
+}
+.nav{
+	display: flex;
+	justify-content: center;
+}
+input{
+	padding: 15px;
+	border-radius: 10px;
+	font-size: 20px;
+	
+}
+.msg{
+	text-align: center;
+	margin-top: 80px;
+	color: white;
+}
+button{
+	padding: 15px;
+	border-radius: 10px;
+	font-size: 20px;
+	margin-left: 10px;
+	background-color: rgba(255, 255, 255, 0.6);
+	border: none;
+
+}
+.card{
+	width: 350px;
+	height: 250px;
+	border-radius: 20px;
+	background-color: rgba(255, 255, 255, 0.6);
+	text-align: center;
+	margin-left: 30px;
+	
+}
+
+.box{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
